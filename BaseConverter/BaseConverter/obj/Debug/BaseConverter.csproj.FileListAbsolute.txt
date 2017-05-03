@@ -2,8 +2,8 @@ c:\users\1301372.pennsbury.000\documents\visual studio 2015\Projects\BaseConvert
 c:\users\1301372.pennsbury.000\documents\visual studio 2015\Projects\BaseConverter\BaseConverter\bin\Debug\BaseConverter.exe
 c:\users\1301372.pennsbury.000\documents\visual studio 2015\Projects\BaseConverter\BaseConverter\bin\Debug\BaseConverter.pdb
 c:\users\1301372.pennsbury.000\documents\visual studio 2015\Projects\BaseConverter\BaseConverter\obj\Debug\BaseConverter.csprojResolveAssemblyReference.cache
-c:\users\1301372.pennsbury.000\documents\visual studio 2015\Projects\BaseConverter\BaseConverter\obj\Debug\BaseConverter.Form1.resources
 c:\users\1301372.pennsbury.000\documents\visual studio 2015\Projects\BaseConverter\BaseConverter\obj\Debug\BaseConverter.Properties.Resources.resources
 c:\users\1301372.pennsbury.000\documents\visual studio 2015\Projects\BaseConverter\BaseConverter\obj\Debug\BaseConverter.csproj.GenerateResource.Cache
 c:\users\1301372.pennsbury.000\documents\visual studio 2015\Projects\BaseConverter\BaseConverter\obj\Debug\BaseConverter.exe
 c:\users\1301372.pennsbury.000\documents\visual studio 2015\Projects\BaseConverter\BaseConverter\obj\Debug\BaseConverter.pdb
+C:\Users\1301372.PENNSBURY.000\Documents\Visual Studio 2015\Projects\BaseConverter\BaseConverter\obj\Debug\BaseConverter.frmMain.resources

@@ -1,6 +1,6 @@
 ﻿namespace BaseConverter
 {
-    partial class Form1
+    partial class frmMain
     {
         /// <summary>
         /// Required designer variable.
@@ -60,6 +60,7 @@
             this.lblConvertedNum.Size = new System.Drawing.Size(96, 13);
             this.lblConvertedNum.TabIndex = 4;
             this.lblConvertedNum.Text = "Converted Number";
+            this.lblConvertedNum.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // txtBase
             // 
@@ -69,7 +70,7 @@
             this.txtBase.TabIndex = 5;
             this.txtBase.Text = "Enter Base less than 11";
             // 
-            // Form1
+            // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -78,7 +79,7 @@
             this.Controls.Add(this.lblConvertedNum);
             this.Controls.Add(this.txtNum);
             this.Controls.Add(this.btnConvert);
-            this.Name = "Form1";
+            this.Name = "frmMain";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();

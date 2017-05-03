@@ -1,11 +1,12 @@
 ﻿using System;
+using System.Linq;
 using System.Windows.Forms;
 
 namespace BaseConverter
 {
-    public partial class Form1 : Form
+    public partial class frmMain : Form
     {
-        public Form1()
+        public frmMain()
         {
             InitializeComponent();
         }       
@@ -14,13 +15,14 @@ namespace BaseConverter
         {
             lblConvertedNum.Text = "";
             int CurrentNum = Convert.ToInt32(txtNum.Text);
-
+            string converted = "";
             while (CurrentNum != 0)
             {
                 int remainder = CurrentNum % Convert.ToInt32(txtBase.Text);
                 CurrentNum = CurrentNum / Convert.ToInt32(txtBase.Text);
-                lblConvertedNum.Text += Convert.ToString(remainder);
-            } 
+                converted += Convert.ToString(remainder);
+            }
+            lblConvertedNum.Text = new String(converted.Reverse().ToArray());
         }
     }
 }
